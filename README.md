@@ -30,28 +30,69 @@ Enthusiastic Junior MERN Stack Developer adept in HTML, CSS, JS, React.js, and N
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0st0fa&" alt="GitHub Streak" style="width: 100%;" />
   </a>
 </div>
+<!-- Projects is here -->
+<h3 style="text-align: left">Projects:</h3>
+1. Inventory Management System
 
-<!-- projects section is here -->
-<h1 >Tech Stack</h1>
-<small>JavaScript, React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS</small>
+## Key Features
+- Product Management
+- Shopping Cart and Checkout
+- Sales Summary
+- Shop Management
+- Admin Monitoring
+- User Management
 
-<h2 >Overview</h2>
-<p >Comprehensive system empowering shop owners with advanced features for effective business management.</p>
+## Key Contributions
+- Secure JWT authentication by Using Firebase
+- Structured backend for optimized data management
 
-<h2>Key Features</h2>
-<ul>
-    <li>Product Management</li>
-    <li>Shopping Cart and Checkout</li>
-    <li>Sales Summary</li>
-    <li>Shop Management</li>
-    <li>Admin Monitoring</li>
-    <li>User Management</li>
-</ul>
+## Live Link
+[Inventory Management System](https://final-assigment-c6eeb.web.app)
+<!-- second projects -->
 
-<h2>Key Contributions</h2>
-<ul>
-    <li>Secure JWT authentication by Using Firebase</li>
-    <li>Structured backend for optimized data management</li>
-</ul>
-<h2 >Live Link</h2>
-<p ><a href="https://final-assigment-c6eeb.web.app">Inventory Management System</a></p>
+<h1>Brand Shop</h1>
+Tech Stack: JavaScript, React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
+
+Overview: Book Library System allowing users to manage and borrow books with secure authentication and a user-friendly interface.
+
+Key Features:
+
+- User Authentication
+- Book Management
+- Borrowing System
+- Quantity Management
+- Efficient Inventory Interface
+
+Key Contributions:
+
+- Secure authentication using Firebase and JWT
+- Optimized data management with MongoDB
+- Intuitive and responsive inventory interface using React and Tailwind CSS
+- Live Link: Book Library System
+
+## Live Link
+[Tech Shop](https://final-assigment-c6eeb.web.app)
+
+<h1>Tech Shop</h1>
+Tech Stack: JavaScript, React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
+
+Overview: Book Library System allowing users to manage and borrow books with secure authentication and a user-friendly interface.
+
+Key Features:
+
+- User Authentication
+- Book Management
+- Borrowing System
+- Quantity Management
+- Efficient Inventory Interface
+
+Key Contributions:
+
+- Secure authentication using Firebase and JWT
+- Optimized data management with MongoDB
+- Intuitive and responsive inventory interface using React and Tailwind CSS
+- Live Link: Book Library System
+
+## Live Link
+[Tech Shop](https://brand-tech-shop.web.app/)
+

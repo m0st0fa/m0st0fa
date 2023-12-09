@@ -3,18 +3,12 @@
 <p><small>
 Enthusiastic Junior MERN Stack Developer adept in HTML, CSS, JS, React.js, and Node.js. Passionate about crafting robust web applications. Currently exploring Next.js for enhanced performance. Let's innovate together! 🚀💡✨
 
-Currently exploring Next.js for powerful and performant web applications and gearing up for TypeScript to enhance code maintainability.</small></p>
-<!-- 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/m0st0fa)
+</small></p>
+ - 👨‍💻 All of my projects are available at [Here](https://github.com/m0st0fa)
 
 - 💬 Ask me about **React, MongoDB, Node.js, Firebase, Tailwind, HTML**
 
 - 📫 How to reach me **mostofaoffical.net24@gmail.com** -->
-
-
-
-
-
 
 <h3 style="text-align: left;">Connect with me:</h3>
 <p style="text-align: left;">

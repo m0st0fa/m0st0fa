@@ -8,7 +8,7 @@ Enthusiastic Junior MERN Stack Developer adept in HTML, CSS, JS, React.js, and N
 
 - 💬 Ask me about **React, MongoDB, Node.js, Firebase, Tailwind, HTML**
 
-- 📫 How to reach me **mostofaoffical.net24@gmail.com** -->
+- 📫 Reach me In Email **mostofaoffical.net24@gmail.com** 
 
 <h3 style="text-align: left;">Connect with me:</h3>
 <p style="text-align: left;">
@@ -30,3 +30,28 @@ Enthusiastic Junior MERN Stack Developer adept in HTML, CSS, JS, React.js, and N
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0st0fa&" alt="GitHub Streak" style="width: 100%;" />
   </a>
 </div>
+
+<!-- projects section is here -->
+<h1 >Tech Stack</h1>
+<small>JavaScript, React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS</small>
+
+<h2 >Overview</h2>
+<p >Comprehensive system empowering shop owners with advanced features for effective business management.</p>
+
+<h2>Key Features</h2>
+<ul>
+    <li>Product Management</li>
+    <li>Shopping Cart and Checkout</li>
+    <li>Sales Summary</li>
+    <li>Shop Management</li>
+    <li>Admin Monitoring</li>
+    <li>User Management</li>
+</ul>
+
+<h2>Key Contributions</h2>
+<ul>
+    <li>Secure JWT authentication by Using Firebase</li>
+    <li>Structured backend for optimized data management</li>
+</ul>
+<h2 >Live Link</h2>
+<p ><a href="https://final-assigment-c6eeb.web.app">Inventory Management System</a></p>

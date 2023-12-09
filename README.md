@@ -31,8 +31,9 @@ Enthusiastic Junior MERN Stack Developer adept in HTML, CSS, JS, React.js, and N
   </a>
 </div>
 <!-- Projects is here -->
-<h3 style="text-align: left">Projects:</h3>
-1. Inventory Management System
+<h1 style="text-align: left">Some of My Projects</h1>
+
+<h4>Inventory Management System </h4>
 
 ## Key Features
 - Product Management
@@ -48,41 +49,40 @@ Enthusiastic Junior MERN Stack Developer adept in HTML, CSS, JS, React.js, and N
 
 ## Live Link
 [Inventory Management System](https://final-assigment-c6eeb.web.app)
-<!-- second projects -->
 
-<h1>Brand Shop</h1>
+<!-- library projects -->
+<h1>Library Management System</h1>
+
 Tech Stack: JavaScript, React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
 Overview: Book Library System allowing users to manage and borrow books with secure authentication and a user-friendly interface.
 
-Key Features:
+## Key Contributions
 
 - User Authentication
-- Book Management
-- Borrowing System
+- product Management
+- bard System
 - Quantity Management
-- Efficient Inventory Interface
+
 
 Key Contributions:
 
 - Secure authentication using Firebase and JWT
 - Optimized data management with MongoDB
 - Intuitive and responsive inventory interface using React and Tailwind CSS
-- Live Link: Book Library System
 
 ## Live Link
-[Tech Shop](https://final-assigment-c6eeb.web.app)
-
+[Library Management system](https://final-assigment-c6eeb.web.app)
 <h1>Tech Shop</h1>
 Tech Stack: JavaScript, React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
-Overview: Book Library System allowing users to manage and borrow books with secure authentication and a user-friendly interface.
+Overview: Tech Shop allowing the user to make purchase and mange with secure authentication and user friendly interface.
 
 Key Features:
 
 - User Authentication
-- Book Management
-- Borrowing System
+- Product Management
+- data shorting System
 - Quantity Management
 - Efficient Inventory Interface
 
@@ -91,8 +91,7 @@ Key Contributions:
 - Secure authentication using Firebase and JWT
 - Optimized data management with MongoDB
 - Intuitive and responsive inventory interface using React and Tailwind CSS
-- Live Link: Book Library System
 
-## Live Link
-[Tech Shop](https://brand-tech-shop.web.app/)
+## Live Link of the shop [Tech Shop](https://brand-tech-shop.web.app/)
+
 

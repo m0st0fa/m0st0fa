@@ -60,9 +60,12 @@ Overview: Book Library System allowing users to manage and borrow books with sec
 ## Key Contributions
 
 - User Authentication
-- product Management
-- bard System
+- book Management
+- borrow Book 
+- reduce book quaintly 
 - Quantity Management
+- search Book
+- admin system
 
 
 Key Contributions:
@@ -72,7 +75,9 @@ Key Contributions:
 - Intuitive and responsive inventory interface using React and Tailwind CSS
 
 ## Live Link
-[Library Management system](https://final-assigment-c6eeb.web.app)
+[Library Management system](https://library-management-82f5a.web.app/)
+
+<!-- this is third projects -->
 <h1>Tech Shop</h1>
 Tech Stack: JavaScript, React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
@@ -86,12 +91,7 @@ Key Features:
 - Quantity Management
 - Efficient Inventory Interface
 
-Key Contributions:
-
-- Secure authentication using Firebase and JWT
-- Optimized data management with MongoDB
-- Intuitive and responsive inventory interface using React and Tailwind CSS
-
-## Live Link of the shop [Tech Shop](https://brand-tech-shop.web.app/)
+## Live Link 
+[Tech Shop](https://brand-tech-shop.web.app/)
 
 

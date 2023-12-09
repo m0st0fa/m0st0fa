@@ -87,9 +87,9 @@ Key Features:
 
 - User Authentication
 - Product Management
-- data shorting System
 - Quantity Management
-- Efficient Inventory Interface
+- show data according to Brand
+- user friendly environment 
 
 ## Live Link 
 [Tech Shop](https://brand-tech-shop.web.app/)

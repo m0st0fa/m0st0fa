@@ -24,8 +24,9 @@ Enthusiastic Junior MERN Stack Developer adept in HTML, CSS, JS, React.js, and N
     <img src="https://skillicons.dev/icons?i=html,css,figma,firebase,js,mongodb,netlify,nextjs,nodejs,tailwind,vscode,react," />
   </a>
 </p>
-
-
 <h3 style="text-align: left;">Github Stats</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m0st0fa&" alt="GitHub Streak" /></a>
-
+<div style="width: 100%; display: flex; justify-content: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0st0fa&" alt="GitHub Streak" style="width: 100%;" />
+  </a>
+</div>
